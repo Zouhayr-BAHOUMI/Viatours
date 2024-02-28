@@ -1,0 +1,58 @@
+html {
+    font-size: 62.5%;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: 'Josefin Sans';
+}
+
+header {
+    display: flex;
+    align-items: center;
+    padding: 1rem;
+    background-color: #FEF7F4;
+}
+
+.logo {
+    height: 30px;
+    width: 160px;
+}
+
+.nav {
+    display: flex;
+    align-items: center;
+    padding-left: 4rem;
+    margin-top: 0.5rem;
+}
+
+.nav ul{
+    display: flex;
+    list-style: none;
+    margin-right: 4rem;
+}
+.nav ul li{
+    padding-left: 3rem;
+}
+
+.nav  a {
+    text-decoration: none;
+    color: #35374B;
+    font-size: 1.2rem;
+}
+
+.btn2 {
+    margin-left: 2rem;
+    background-color: #EB662B;
+    padding: 0.8rem ;
+}
+.btn2 a{
+    color: #FEF7F4;
+}
+.container1 {
+    display: flex;
+    justify-content: space-between;
+}
