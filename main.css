@@ -60,7 +60,6 @@ header {
 .container1{
     display: flex;
     justify-content: space-between;
-
 }
 
 .left-col{
@@ -81,6 +80,7 @@ span{
 .left-col p{
     font-size: 1.5rem;
     margin-top: 1.4rem;
+    line-height: 1.5;
 }
 .right-col img{
     height: 450px;
@@ -99,4 +99,40 @@ span{
     color: #FEF7F4;
     text-decoration: none;
     font-size: 1.3rem;
+}
+
+.container2{
+    margin-top: 5rem;
+}
+.cards{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 2rem;
+    gap: 60px;
+}
+
+.card1 img,
+.card2 img,
+.card3 img,
+.card4 img{
+    width: 40px;
+    margin-bottom: 1.3rem;
+}
+
+.card1 h3,
+.card2 h3,
+.card3 h3,
+.card4 h3{
+    color: #35374B;
+    font-size: 1.5rem;
+    margin-bottom: 1.2rem;
+}
+
+.card1 p,
+.card2 p,
+.card3 p,
+.card4 p{
+    color: #35374B;
+    font-size: 1.4rem;
+    line-height: 1.3;
 }
