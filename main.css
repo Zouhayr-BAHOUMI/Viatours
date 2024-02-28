@@ -52,7 +52,51 @@ header {
 .btn2 a{
     color: #FEF7F4;
 }
-.container1 {
+.main {
+    padding-top: 4rem;
+    margin-left: 80px;
+    margin-right: 5rem;
+}
+.container1{
     display: flex;
     justify-content: space-between;
+
+}
+
+.left-col{
+    padding-top: 80px;
+    padding-right: 4rem;
+    
+    color: #35374B;
+}
+
+.left-col h1{
+    font-size: 5rem;
+    line-height: 1.2;
+}
+span{
+    color: #EB662B;
+}
+
+.left-col p{
+    font-size: 1.5rem;
+    margin-top: 1.4rem;
+}
+.right-col img{
+    height: 450px;
+    width: 450px;
+    padding-right: 2rem;
+}
+
+.cta-btn{
+    display: inline-block;
+    background-color: #EB662B;
+    padding: 1rem;
+    margin-top: 1.7rem;
+}
+
+.cta-btn a{
+    color: #FEF7F4;
+    text-decoration: none;
+    font-size: 1.3rem;
 }
