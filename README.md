@@ -1,1 +1,2 @@
 # Viatours
+#### Vous êtes un.e concepteur.se/développeur.se front-end dans une grande société. Le chef de projet vous a fourni cette maquette créée par le designer de l'agence. Vous allez devoir l'analyser, la recréer sur Figma/AdobeXD puis définir une structure en HTML en utilisant les bonnes balises pour chaque section. Vous allez ensuite utiliser vos connaissances en CSS pour vous rapprocher au maximum du design fourni.
